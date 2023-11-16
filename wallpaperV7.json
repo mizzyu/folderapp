@@ -1,0 +1,482 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3646427680999931/9414020274xx",
+      "main_ads_intertitial":"ca-app-pub-3646427680999931/2956423130xx",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"dab1741d209596c0",
+      "backup_ads_intertitial":"7e388c688de7ed57",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Macaron HD Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/01J7EfIiiG7BNaEnmxkOxFJS3CnsMgomLybc2H5xQcy2TVP4YgXH0RvtOi35o6RphA=w2560-h1440-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.tantratantri.MacaronHDWallpaper"
+    },
+    {
+      "id":2,
+      "title":"Orange HD Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/9M04e9sSl1AwYACfGzth61Z7d6snaVgSSIH1VnB7vdc7eJEORwbd192gDGlDXL9m9iQ=w2560-h1440-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.tantratantri.OrangeHDWallpaper"
+    },
+    {
+      "id":3,
+      "title":"Water Droplet HD Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/Nz-8sllSbpH45YTJO6f-MymkMTW2brkNdv7KWOd72f_zAUUSasM4mLM8Z3Xf2wKT1JU=w2560-h1440-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.tantratantri.WaterdDropletHDWallpaper"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Soft",
+      "image": "https://images.unsplash.com/photo-1504392022767-a8fc0771f239?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2VyJTIwd2l0aCUyMGJlZXxlbnwwfHwwfHx8MA%3D%3D"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Medium",
+      "image": "https://images.unsplash.com/photo-1619014069238-2921716471a1?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Zmxvd2VyJTIwd2l0aCUyMGJlZXxlbnwwfHwwfHx8MA%3D%3D"
+
+    },
+    {
+      "id": 3,
+      "name_category": "High",
+      "image": "https://w0.peakpx.com/wallpaper/325/823/HD-wallpaper-bee-and-flower-drops-eating-fly-honeybee-insect-sunflower-yellow.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Soft",
+      "title":"wallpaper1",
+      "image":"https://images.unsplash.com/photo-1504392022767-a8fc0771f239?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2VyJTIwd2l0aCUyMGJlZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name_category": "Medium",
+      "title": "wallpaper2",
+      "image": "https://images.unsplash.com/photo-1619014069238-2921716471a1?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Zmxvd2VyJTIwd2l0aCUyMGJlZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id":3,
+      "name_category": "High",
+      "title":"wallpaper3",
+      "image":"https://images.unsplash.com/photo-1504257373399-12c79acab9e6?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Zmxvd2VyJTIwd2l0aCUyMGJlZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id":4,
+      "name_category": "Soft",
+      "title":"wallpaper4",
+      "image":"https://images.unsplash.com/photo-1606004510333-b1563ddbeb87?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zmxvd2VyJTIwd2l0aCUyMGJlZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id":5,
+      "name_category": "Medium",
+      "title":"wallpaper5",
+      "image":"https://images.unsplash.com/photo-1591442752444-45412dfa1c6f?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zmxvd2VyJTIwd2l0aCUyMGJlZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id":6,
+      "name_category": "High",
+      "title":"wallpaper6",
+      "image":"https://images.unsplash.com/photo-1554062751-aff7780a8e5b?auto=format&fit=crop&q=80&w=1780&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	}, 
+	{
+      "id":7,
+      "name_category": "Soft",
+      "title":"wallpaper7",
+      "image":"https://images.unsplash.com/photo-1555117485-de473c05b0a8?auto=format&fit=crop&q=80&w=1885&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "name_category": "Medium",
+      "title": "wallpaper8",
+      "image": "https://images.unsplash.com/photo-1533425680956-fde56dbbe99e?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":9,
+      "name_category": "High",
+      "title":"wallpaper9",
+      "image":"https://images.unsplash.com/photo-1502457937844-a020e34c031a?auto=format&fit=crop&q=80&w=1935&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":10,
+      "name_category": "Soft",
+      "title":"wallpaper10",
+      "image":"https://images.unsplash.com/photo-1589526261866-ab0d34f8dc19?auto=format&fit=crop&q=80&w=1889&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},  
+	{
+      "id":11,
+      "name_category": "Soft",
+      "title":"wallpaper11",
+      "image":"https://images.unsplash.com/photo-1591508767053-2a8565061fb8?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 12,
+      "name_category": "Medium",
+      "title": "wallpaper12",
+      "image": "https://images.unsplash.com/photo-1562736188-179dc37fecab?auto=format&fit=crop&q=80&w=2069&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":13,
+      "name_category": "High",
+      "title":"wallpaper13",
+      "image":"https://images.unsplash.com/photo-1555103740-b323614086b2?auto=format&fit=crop&q=80&w=1936&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":14,
+      "name_category": "Soft",
+      "title":"wallpaper14",
+      "image":"https://images.unsplash.com/photo-1562339742-8d40f7e599e7?auto=format&fit=crop&q=80&w=1966&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":15,
+      "name_category": "Medium",
+      "title":"wallpaper15",
+      "image":"https://img.freepik.com/premium-photo/bee-flower-with-black-background_625492-4914.jpg?w=360"
+    },
+    {
+      "id":16,
+      "name_category": "High",
+      "title":"wallpaper16",
+      "image":"https://img.freepik.com/premium-photo/closeup-honey-bee-sits-flower-collects-nectar-generative-ai_500695-182.jpg?w=900"
+	}, 
+	{
+      "id":17,
+      "name_category": "Soft",
+      "title":"wallpaper17",
+      "image":"https://img.freepik.com/premium-photo/fly-flower_618873-42.jpg?w=740"
+    },
+    {
+      "id": 18,
+      "name_category": "Medium",
+      "title": "wallpaper18",
+      "image": "https://img.freepik.com/premium-photo/bee-flower-with-yellow-flower-background_900101-21956.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "High",
+      "title":"wallpaper19",
+      "image":"https://images.pixexid.com/this-desktop-wallpaper-showcases-a-macro-shot-of-a-bee-collecting-nectar-from-a-zxw3jluq.webp?h=698&q=70"
+    },
+    {
+      "id":20,
+      "name_category": "Soft",
+      "title":"wallpaper20",
+      "image":"https://c4.wallpaperflare.com/wallpaper/480/858/468/animals-insect-macro-bees-wallpaper-preview.jpg"
+	},  
+	{
+      "id":21,
+      "name_category": "Soft",
+      "title":"wallpaper21",
+      "image":"https://w0.peakpx.com/wallpaper/325/823/HD-wallpaper-bee-and-flower-drops-eating-fly-honeybee-insect-sunflower-yellow.jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "Medium",
+      "title": "wallpaper22",
+      "image": "https://images.unsplash.com/photo-1542936221-b02434e3d36e?auto=format&fit=crop&q=80&w=1909&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":23,
+      "name_category": "High",
+      "title":"wallpaper23",
+      "image":"https://images.unsplash.com/photo-1506899522976-ca9bdfe704ce?auto=format&fit=crop&q=80&w=1935&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":24,
+      "name_category": "Soft",
+      "title":"wallpaper24",
+      "image":"https://e0.pxfuel.com/wallpapers/590/251/desktop-wallpaper-micro-of-honey-bee-perched-on-yellow-petaled-flower-insect-%E2%80%A2-for-you-for-mobile-thumbnail.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Medium",
+      "title":"wallpaper25",
+      "image":"https://www.veganfoodandliving.com/wp-content/uploads/2021/12/Bee-gathering-nectar.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "High",
+      "title":"wallpaper26",
+      "image":"https://images.unsplash.com/photo-1550170139-ed6b5e6b4c38?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmVlJTIwZmxvd2VyfGVufDB8fDB8fHww"
+	}, 
+	{
+      "id":27,
+      "name_category": "Soft",
+      "title":"wallpaper27",
+      "image":"https://images.unsplash.com/photo-1604241510389-b32ffcff88d9?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJlZSUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 28,
+      "name_category": "Medium",
+      "title": "wallpaper28",
+      "image": "https://image.lexica.art/full_jpg/f481a119-a2ca-4e99-a5df-1bea7dfa5a55"
+    },
+    {
+      "id":29,
+      "name_category": "High",
+      "title":"wallpaper29",
+      "image":"https://image.lexica.art/full_jpg/bc31dc2a-9157-489a-a634-9a5428686065"
+    },
+    {
+      "id":30,
+      "name_category": "Soft",
+      "title":"wallpaper30",
+      "image":"https://www.ethicalsuperstore.com/blog/wp-content/uploads/2020/07/bee-friendly-flowers-featured-image.jpg"
+	},  
+	{
+      "id":31,
+      "name_category": "Soft",
+      "title":"wallpaper31",
+      "image":"https://i.pinimg.com/1200x/1d/e0/a3/1de0a3d9aeb2db11ee19834ada059f56.jpg"
+    },
+    {
+      "id": 32,
+      "name_category": "Medium",
+      "title": "wallpaper32",
+      "image": "https://w0.peakpx.com/wallpaper/325/823/HD-wallpaper-bee-and-flower-drops-eating-fly-honeybee-insect-sunflower-yellow.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "High",
+      "title":"wallpaper33",
+      "image":"https://img.freepik.com/premium-photo/bee-flower-wallpapers_811902-397.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Soft",
+      "title":"wallpaper34",
+      "image":"https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-flower-petals-bees-love-flowers-petals-wallpaper-background_911849-164315.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Medium",
+      "title":"wallpaper35",
+      "image":"https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-flower-petals-bees-love-flowers-petals-wallpaper-background_916211-128997.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "High",
+      "title":"wallpaper36",
+      "image":"https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-flower-petals-bees-love-flowers-petals-wallpaper-background_911849-164326.jpg"
+	}, 
+	{
+      "id":37,
+      "name_category": "Soft",
+      "title":"wallpaper37",
+      "image":"https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-flower-petals-bees-love-flowers-petals-wallpaper-background_917506-132526.jpg"
+    },
+    {
+      "id": 38,
+      "name_category": "Medium",
+      "title": "wallpaper38",
+      "image": "https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-flower-petals-bees-love-flowers-petals-wallpaper-background_916211-128994.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "High",
+      "title":"wallpaper39",
+      "image":"https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-flower-petals-bees-love-flowers-petals-wallpaper-background_917506-133036.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Soft",
+      "title":"wallpaper40",
+      "image":"https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-on-flower-petals-bees-love-flowers-petals-wallpaper-background_911849-163762.jpg?w=2000"
+	},  
+	{
+      "id":41,
+      "name_category": "Soft",
+      "title":"wallpaper41",
+      "image":"https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-flower-petals-bees-love-flowers-petals-wallpaper-background_327903-1401878.jpg"
+    },
+    {
+      "id": 42,
+      "name_category": "Medium",
+      "title": "wallpaper42",
+      "image": "https://img.freepik.com/premium-photo/closeup-of-the-head-of-a-bee-full-of-pollen-on-a-flower-generative-ai_252214-7078.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "High",
+      "title":"wallpaper43",
+      "image":"https://img.freepik.com/premium-photo/honeycomb-with-a-drop-of-honey-and-a-bee_158863-9311.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Soft",
+      "title":"wallpaper44",
+      "image":"https://c4.wallpaperflare.com/wallpaper/39/455/714/boat-on-lake-near-islet-with-tree-afar-bridge-during-golden-hour-wallpaper-preview.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Medium",
+      "title":"wallpaper45",
+      "image":"https://img.freepik.com/premium-photo/highly-detailed-wallpaper-bee-standing-rose-by-erin-hanson-oil-paint-miki-asai-macro-ph_986714-7367.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "High",
+      "title":"wallpaper46",
+      "image":"https://img.freepik.com/premium-photo/highly-detailed-wallpaper-bee-standing-rose-by-erin-hanson-oil-paint-miki-asai-macro-ph_986714-7356.jpg"
+	}, 
+	{
+      "id":47,
+      "name_category": "Soft",
+      "title":"wallpaper47",
+      "image":"https://img.freepik.com/premium-photo/group-colorful-flowers_976512-1928.jpg"
+    },
+    {
+      "id": 48,
+      "name_category": "Medium",
+      "title": "wallpaper48",
+      "image": "https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-flower-petals-bees-love-flowers-petals-wallpaper-background_327903-1522049.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "High",
+      "title":"wallpaper49",
+      "image":"https://img.freepik.com/premium-photo/hardworking-bees-collect-nectar-flower-petals-bees-love-flowers-petals-wallpaper-background_327903-1522312.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Soft",
+      "title":"wallpaper50",
+      "image":"https://e1.pxfuel.com/desktop-wallpaper/769/235/desktop-wallpaper-happy-apps-bee-live-cute-bees.jpg"
+	},  
+	{
+      "id":51,
+      "name_category": "Soft",
+      "title":"wallpaper51",
+      "image":"https://img.freepik.com/premium-photo/bees-wallpaper-photo-ai-generated_980993-1622.jpg"
+    },
+    {
+      "id": 52,
+      "name_category": "Medium",
+      "title": "wallpaper52",
+      "image": "https://img.freepik.com/premium-photo/bee-flower-wallpapers_811902-397.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "High",
+      "title":"wallpaper53",
+      "image":"https://st2.depositphotos.com/7413918/10320/i/450/depositphotos_103205748-stock-photo-cute-bee-cartoon-character-with.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Soft",
+      "title":"wallpaper54",
+      "image":"https://img.freepik.com/premium-vector/seamless-pattern-with-happy-flying-bees-cute-bees-with-honey-sky-background-cartoon-illustration-can-be-used-children-s-clothing-things-design-backgrounds-wrapper-wallpaper-banners_567746-737.jpg?w=2000"
+    },
+    {
+      "id":55,
+      "name_category": "Medium",
+      "title":"wallpaper55",
+      "image":"https://st2.depositphotos.com/7413918/10320/i/450/depositphotos_103203958-stock-photo-fun-bee-cartoon-character-with.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "High",
+      "title":"wallpaper56",
+      "image":"https://st2.depositphotos.com/7413918/10320/i/450/depositphotos_103204220-stock-photo-cute-bee-cartoon-character-with.jpg"
+	}, 
+	{
+      "id":57,
+      "name_category": "Soft",
+      "title":"wallpaper57",
+      "image":"https://st2.depositphotos.com/7413918/10320/i/450/depositphotos_103205748-stock-photo-cute-bee-cartoon-character-with.jpg"
+    },
+    {
+      "id": 58,
+      "name_category": "Medium",
+      "title": "wallpaper58",
+      "image": "https://cdn2.vectorstock.com/i/1000x1000/62/36/cartoon-color-bee-background-pattern-vector-18336236.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "High",
+      "title":"wallpaper59",
+      "image":"https://img.freepik.com/premium-vector/seamless-pattern-with-happy-flying-bees-cute-bees-with-honey-sky-background-cartoon-illustration-can-be-used-children-s-clothing-things-design-backgrounds-wrapper-wallpaper-banners_567746-737.jpg?w=2000"
+    },
+    {
+      "id":60,
+      "name_category": "Soft",
+      "title":"wallpaper60",
+      "image":"https://st2.depositphotos.com/7413918/10320/i/450/depositphotos_103203958-stock-photo-fun-bee-cartoon-character-with.jpg"
+	},  
+	{
+      "id":61,
+      "name_category": "Soft",
+      "title":"wallpaper61",
+      "image":"https://st2.depositphotos.com/7413918/10320/i/450/depositphotos_103205748-stock-photo-cute-bee-cartoon-character-with.jpg"
+    },
+    {
+      "id": 62,
+      "name_category": "Medium",
+      "title": "wallpaper62",
+      "image": "https://images.unsplash.com/photo-1504392022767-a8fc0771f239?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmVlJTIwZmxvd2VyfGVufDB8fDB8fHww"
+    },
+    {
+      "id":63,
+      "name_category": "High",
+      "title":"wallpaper63",
+      "image":"https://w0.peakpx.com/wallpaper/325/823/HD-wallpaper-bee-and-flower-drops-eating-fly-honeybee-insect-sunflower-yellow.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "Soft",
+      "title":"wallpaper64",
+      "image":"https://wallpapers.com/images/hd/bee-iphone-tz877c9lw8tu9n10.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "Medium",
+      "title":"wallpaper65",
+      "image":"https://img.freepik.com/premium-photo/bee-is-flying-near-flower-with-pink-center_742608-361.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "High",
+      "title":"wallpaper66",
+      "image":"https://cdn.pixabay.com/photo/2023/08/19/23/44/ai-generated-8201380_1280.png"
+	}, 
+	{
+      "id":67,
+      "name_category": "Soft",
+      "title":"wallpaper67",
+      "image":"https://img.freepik.com/premium-photo/there-is-bee-that-is-sitting-flower-water-generative-ai_958124-15808.jpg"
+    },
+    {
+      "id": 68,
+      "name_category": "Medium",
+      "title": "wallpaper68",
+      "image": "https://img.freepik.com/premium-photo/bee-flower-wallpapers_811902-397.jpg"
+    }
+  ]
+}
